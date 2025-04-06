@@ -285,7 +285,7 @@
 - [MagiskPolicy] Make policy statement closer to stock `*.te` format. Please check updated documentation or `magiskpolicy --help` for more details.
 - [MagiskBoot] Support compressed `extra` blobs
 - [MagiskBoot] Pad boot images to original size with zeros
-- [MagiskHide] Manipulate additional vendor properties
+- [MagiskHide] Manipulate additional vendor properties 
 
 ### v20.4
 
